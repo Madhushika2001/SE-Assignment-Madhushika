@@ -11,5 +11,5 @@ This is a **MERN Stack** application for managing student records, featuring **a
 ## Installation
 1. Clone the repository:
    ```sh
-   git clone https://github.com/your-username/your-repo.git](https://github.com/Madhushika2001/SE-Assignment-Madhushika.git
+   git clone https://github.com/Madhushika2001/SE-Assignment-Madhushika.git
 
