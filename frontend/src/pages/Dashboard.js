@@ -8,6 +8,7 @@ export default function Dashboard() {
   const [sortOption, setSortOption] = useState("active");
   const token = localStorage.getItem("token");
 
+  
   useEffect(() => {
     fetchStudents();
   }, []);
